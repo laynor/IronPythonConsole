@@ -1,0 +1,30 @@
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\IronPythonConsole.py
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\IronPythonConsole.exe.config
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\IronPythonConsole.exe
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\IronPythonConsole.pdb
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\IronPythonConsole.csprojResolveAssemblyReference.cache
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\MainWindow.baml
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\MainWindow.g.cs
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\App.g.cs
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\IronPythonConsole_Content.g.cs
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\IronPythonConsole_MarkupCompile.cache
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\IronPythonConsole.g.resources
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\IronPythonConsole.Properties.Resources.resources
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\IronPythonConsole.csproj.GenerateResource.Cache
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\IronPythonConsole.exe
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\IronPythonConsole\obj\x86\Debug\IronPythonConsole.pdb
+D:\src\trunk\bin\IronPythonConsole.py
+D:\src\trunk\bin\IronPythonConsole.exe.config
+D:\src\trunk\bin\IronPythonConsole.exe
+D:\src\trunk\bin\IronPythonConsole.pdb
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.csprojResolveAssemblyReference.cache
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\MainWindow.baml
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\MainWindow.g.cs
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\App.g.cs
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole_Content.g.cs
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole_MarkupCompile.cache
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.g.resources
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.Properties.Resources.resources
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.csproj.GenerateResource.Cache
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.exe
+D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.pdb

@@ -1,0 +1,18 @@
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\PythonConsoleControl.dll
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\PythonConsoleControl.pdb
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\PythonConsoleControl\obj\Debug\PythonConsoleControl.csprojResolveAssemblyReference.cache
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\PythonConsoleControl\obj\Debug\PythonConsoleControl.baml
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\PythonConsoleControl\obj\Debug\PythonConsoleControl.g.cs
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\PythonConsoleControl\obj\Debug\PythonConsoleControl_MarkupCompile.cache
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\PythonConsoleControl\obj\Debug\PythonConsoleControl.g.resources
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\PythonConsoleControl\obj\Debug\PythonConsoleControl.dll
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\IronPythonConsole\PythonConsoleControl\obj\Debug\PythonConsoleControl.pdb
+D:\src\trunk\bin\PythonConsoleControl.dll
+D:\src\trunk\bin\PythonConsoleControl.pdb
+D:\src\trunk\XradiApps\PythonConsoleControl\obj\Debug\PythonConsoleControl.csprojResolveAssemblyReference.cache
+D:\src\trunk\XradiApps\PythonConsoleControl\obj\Debug\PythonConsoleControl.baml
+D:\src\trunk\XradiApps\PythonConsoleControl\obj\Debug\PythonConsoleControl.g.cs
+D:\src\trunk\XradiApps\PythonConsoleControl\obj\Debug\PythonConsoleControl_MarkupCompile.cache
+D:\src\trunk\XradiApps\PythonConsoleControl\obj\Debug\PythonConsoleControl.g.resources
+D:\src\trunk\XradiApps\PythonConsoleControl\obj\Debug\PythonConsoleControl.dll
+D:\src\trunk\XradiApps\PythonConsoleControl\obj\Debug\PythonConsoleControl.pdb
