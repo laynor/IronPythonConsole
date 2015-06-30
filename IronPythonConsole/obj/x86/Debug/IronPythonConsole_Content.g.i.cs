@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ironpythonconsole.py")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("extra.py")]
 
 

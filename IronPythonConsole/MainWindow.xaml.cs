@@ -73,15 +73,19 @@ namespace IronPythonConsole
 
         void Console_ConsoleInitialized(object sender, EventArgs e)
         {
-            string startupScipt = "import IronPythonConsole";
+            string startupScipt = "import Extra";
             ScriptSource scriptSource = console.Pad.Console.ScriptScope.Engine.CreateScriptSourceFromString(startupScipt, SourceCodeKind.Statements);
             try
             {
                 scriptSource.Execute();
+                // adds all local modules
+                //var paths = pyEngine.GetSearchPaths();
+                //paths.Add(@"C:\Python27\Lib");
+                //paths.Add(@"C:\Python27\Lib\site-packages");
             }
             catch {}
-            //double[] test = new double[] { 1.2, 4.6 };
-            //console.Pad.Console.ScriptScope.SetVariable("test", test);
+            //string intro = "You are now connected to the server...";
+            //console.Pad.Console.ScriptScope.SetVariable("init", intro);
         }
 
         void MainWindow_Initialized(object sender, EventArgs e)

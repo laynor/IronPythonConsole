@@ -1,4 +1,3 @@
-C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\IronPythonConsole.py
 C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\IronPythonConsole.exe.config
 C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\IronPythonConsole.exe
 C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\IronPythonConsole.pdb
@@ -28,3 +27,4 @@ D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.Propert
 D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.csproj.GenerateResource.Cache
 D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.exe
 D:\src\trunk\XradiApps\IronPythonConsole\obj\x86\Debug\IronPythonConsole.pdb
+C:\Users\M6MACHUN\Documents\Visual Studio 2013\Projects\ironlab\bin\Extra.py

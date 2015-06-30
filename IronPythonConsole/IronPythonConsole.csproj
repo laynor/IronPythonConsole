@@ -156,7 +156,7 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\Help.png" />
-    <Content Include="IronPythonConsole.py">
+    <Content Include="Extra.py">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
